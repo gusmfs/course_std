@@ -159,8 +159,8 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Kanvas API',
-    'DESCRIPTION': 'API CRUD Kanvas project documentation',
+    'TITLE': 'Course STD API',
+    'DESCRIPTION': 'API CRUD Course STD project documentation',
     'VERSION': '1.0.0.',
     'SERVE_INCLUDE_SCHEMA': False,
 }
